@@ -159,20 +159,7 @@ export default function Footer() {
               ))}
             </div>
             
-            {/* Newsletter */}
-            <div className="mt-8">
-              <h4 className="font-semibold mb-3">Newsletter</h4>
-              <div className="relative">
-                <input
-                  type="email"
-                  placeholder="Votre email"
-                  className="w-full px-4 py-2 bg-white/10 border border-white/20 rounded-lg focus:outline-none focus:ring-2 focus:ring-secondary placeholder-gray-400"
-                />
-                <button className="absolute right-2 top-1/2 transform -translate-y-1/2 px-3 py-1 bg-secondary text-white text-sm rounded hover:bg-secondary-dark transition-colors">
-                  S'abonner
-                </button>
-              </div>
-            </div>
+            
           </div>
 
           {/* Contact & Social */}
