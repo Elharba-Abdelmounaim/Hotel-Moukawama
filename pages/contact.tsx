@@ -57,7 +57,7 @@ export default function Contact() {
     {
       icon: <Mail className="w-6 h-6" />,
       title: "Email",
-      details: "contact@hotelmoukawama.com",
+      details: "hotelmoukawama@gmail.com",
       link: "mailto:contact@hotelmoukawama.com"
     },
     {
